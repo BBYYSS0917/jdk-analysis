@@ -1,4 +1,4 @@
-package test.learn;
+package test.generic;
 
 /**
  * Java generic test
